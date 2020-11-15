@@ -1,5 +1,5 @@
 
-
+/*This is my first real shot at css. So far I am satified with the turn out but it can definitely use some improvement as noted below*/
 body,html {
 	background-color: #ffffff;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -19,7 +19,7 @@ header {
     padding: 20px 20px;
     max-width: 100%;
     margin: auto;
-
+/*In the future I would really like to try adding in a sort of drop down or slide out menu rather than just hover style links*/
 }
 nav {
     display: inline-block;
@@ -52,6 +52,7 @@ nav ul {
     margin: 10px;
     border: 10px;
 }
+/*had some trouble with the floating sections and getting things to line up for a while*/
 main {
 	float: left;
 	width: 50%;
@@ -119,7 +120,7 @@ aside div img {
 	margin-bottom: 10px;
 	
 	
-	
+/*consider using simple yet different names to the below items as to not confuse myself and save some time in the future*/	
 }
 #logo {
     display: inline-block;
@@ -159,5 +160,6 @@ body > section {
     color: #000000;
 	margin-left: 10px;
 }
+/*overall happy with my turn out in this project. I will consider adding more elements into it in the future as well as adding more of a color scheme*/
 
 
